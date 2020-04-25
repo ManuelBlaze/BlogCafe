@@ -83,6 +83,9 @@ img {
     .columnas-8 {
         flex: 0 0 calc(66.6% - 1rem);
     }
+    .columnas-10 {
+        flex: 0 0 calc(83.3% - 1rem);
+    }
     .columnas-12 {
         flex: 0 0 100%;
     }
@@ -292,3 +295,6 @@ img {
     font-family: 'PT Sans', sans-serif;
     text-align: center;
 }
+
+
+/** Contacto **/
